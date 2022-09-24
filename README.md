@@ -7,6 +7,6 @@
 - ⚙️ I use daily: ```.js```, ```.jsx```, ```.html```, ```.css```, ```.py```, ```.java```
 - 🌱 Learning all about: **Data Science**
 - 🖥️ Developed: [VelkaDomu.cz](https://velkadomu-sapper.vercel.app/), [Slibotechny](https://www.slibotechny.cz/), [SIR Model](https://pavlyuchenko.github.io/SIRModel/), [Portfolio](https://michal-pavlicek.tech/)
-- 📫 How to reach me: [Email address](mailto:michaelg.pavlicek@gmail.com)
+- 📫 How to reach me: [michaelg.pavlicek@gmail.com](mailto:michaelg.pavlicek@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A big Rick and Morty fan
