@@ -10,4 +10,3 @@
 - 🖥️ Developed: [VelkaDomu.cz](https://velkadomu-sapper.vercel.app/), [Slibotechny](https://www.slibotechny.cz/), [SIR Model](https://pavlyuchenko.github.io/SIRModel/), [Portfolio](https://michal-pavlicek.tech/)
 - 📫 How to reach me: [michaelg.pavlicek@gmail.com](mailto:michaelg.pavlicek@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: A big Rick and Morty fan
