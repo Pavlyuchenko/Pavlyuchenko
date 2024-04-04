@@ -1,12 +1,19 @@
-### Hi there 👋
+### Hello there! 👋
 
-**I am a front-end web developer & freelancer at Upwork. I study Data Science & Artificial Intelligence in Maastricht, Netherlands.**
+**I am a programmer with 6 years of experience. Currently pursuing a Bachelor's in Informatics (FIT VUT Brno, 🇨🇿).**
 
 ##### BIO
-- 🏢 Working for clients on: [**Upwork**](https://www.upwork.com/freelancers/~01167d065cd94c6195)
-- ⚙️ I use daily: ```.js```, ```.jsx```, ```.html```, ```.css```, ```.py```, ```.java```
-- ⏰ Quick projects showcase: [🖊️Text editor](https://michal-pavlicek.tech/showcase/text-editor), [🃏Card game](https://pavlyuchenko.github.io/WaterfallGame/), [🦠 Pandemic Simulation](https://pavlyuchenko.github.io/SIRModel/) 
-- 🌱 Learning all about: **Data Science**
-- 🖥️ Developed: [VelkaDomu.cz](https://velkadomu-sapper.vercel.app/), [Slibotechny](https://www.slibotechny.cz/), [SIR Model](https://pavlyuchenko.github.io/SIRModel/), [Portfolio](https://michal-pavlicek.tech/)
+- ⚙️ I use daily: ```.c```, ```.js```, ```.jsx```, ```.html```, ```.css```, ```.py```, ```.java```
+- 🖥️ Developed: [VelkaDomu.cz](https://velkadomu-sapper.vercel.app/), [Slibotechny](https://www.slibotechny.cz/), [SIR Model](https://pavlyuchenko.github.io/SIRModel/), [Portfolio](https://michal-pavlicek.cz/)
+- 🌱 Learning all about: Fundamentals of IT
+- 🔍 Topics I want to learn more about:
+  - Virtual Reality/Computer Graphics
+  - Data Science (in sports)
+  - IoT/Electronics/Low level programming
+- 🚶 Sports I do:
+  - ⚽ Football since childhood,
+  - learning 🥎 Tennis and 🧗‍♀️ bouldering,
+  - 🏃‍♂️ Running for fitness & relax,
+  - 💪 Calisthenics for strenght
 - 📫 How to reach me: [michaelg.pavlicek@gmail.com](mailto:michaelg.pavlicek@gmail.com)
 - 😄 Pronouns: he/him
